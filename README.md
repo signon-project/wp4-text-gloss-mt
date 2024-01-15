@@ -1,6 +1,6 @@
-# D48-SignON_MT
+# A module for Text-Gloss translation
 
-This repository implements the SignON_MT class, which enables the translation between spoken and sign languages represented by glosses. This contribution is part of the SignON Project (https://signon-project.eu) and, namely, is the implementation of the different approaches and models reported in the deliverable _"Deliverable 4.8: Final Routines for transformation of text from and to InterL"_
+This repository implements the SignON_MT class, which enables the translation between spoken and sign languages represented by glosses. This contribution is part of the SignON Project (https://signon-project.eu) and, namely, is the implementation the multilingual model trained under the first approach reported in the deliverable _"Deliverable 4.8: Final Routines for transformation of text from and to InterL"_
 
 ## Languages and models
 
