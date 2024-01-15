@@ -28,7 +28,7 @@ This research was developed using Python 3.8.0. Below, the library requirements 
 
 ## Example of usage
 ```python
-model = SignON_MT(7)
+model = SignON_MT()
 spoken_input = 'tiefer luftdruck bestimmt in den nÃ¤chsten tagen unser wetter'
 gloss_input = 'DRUCK TIEF KOMMEN'
 
